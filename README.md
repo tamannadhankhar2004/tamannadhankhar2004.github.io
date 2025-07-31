@@ -1,1 +1,1 @@
-# tamannadhankhar2004.github.io
+# this is a ai quiz platform
