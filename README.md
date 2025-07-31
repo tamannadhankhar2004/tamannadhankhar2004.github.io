@@ -1,1 +1,1 @@
-# this is a ai quiz platform
+# this is a ai generate quiz platform
